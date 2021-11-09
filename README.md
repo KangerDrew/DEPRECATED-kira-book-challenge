@@ -1,4 +1,4 @@
-# ⛔️ DEPRECATED ⛔️
+# ⛔ THIS REPO IS OUTDATED ⛔️
 
 ### Project status
 
